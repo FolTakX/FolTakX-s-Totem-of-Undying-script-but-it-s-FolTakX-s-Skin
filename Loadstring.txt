@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/FolTakX/FolTakX-s-Totem-of-Undying-script-but-it-s-FolTakX-s-Skin/blob/main/Totem%20of%20Undying.txt'))()
